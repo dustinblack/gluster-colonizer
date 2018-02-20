@@ -194,7 +194,7 @@
         name: "p{{ item[1]['id']|int + 1 }}"
         flags: [ lvm ]
         part_start: "{{ item[1]['id']|int * item[1]['arbiter_size']|int }}GiB"
-        part_end: "{{ (item[1]['id]|int + 1) * item[1]['arbiter_size'] }}GiB"
+        part_end: "{{ (item[1]['id]|int + 1) * item[1]['arbiter_size']|int }}GiB"
         unit: s
       with_nested:
         - "{{ cache_devices }}"
