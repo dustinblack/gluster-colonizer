@@ -197,7 +197,7 @@
         number: "{{ item[1]['id']|int + 1 }}"
         name: "p{{ item[1]['id']|int + 1 }}"
         flags: [ lvm ]
-        part_start: "{{ (item[1]['id']|int * arbiter_part_size|int) + 50 }}s"
+        part_start: "{{ (item[1]['id']|int * arbiter_part_size|int) + 51 }}s"
         part_end: "{{ ((item[1]['id']|int + 1) * arbiter_part_size|int) + 50 }}s"
         unit: s
       with_nested:
