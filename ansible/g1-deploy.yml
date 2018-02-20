@@ -186,6 +186,10 @@
         number: 1
       with_items: "{{ cache_devices }}"
 
+    - name: Calculate arbiter partition size
+      set_fact:
+        arbiter_part_size: "{{ (backend_configuration[0]['arbiter_size']|int * 1073741824 ) / 512 }}"
+
     - name: Create arbiter partitions
       parted:
         state: present
@@ -193,8 +197,8 @@
         number: "{{ item[1]['id']|int + 1 }}"
         name: "p{{ item[1]['id']|int + 1 }}"
         flags: [ lvm ]
-        part_start: "{{ item[1]['id']|int * item[1]['arbiter_size']|int }}GiB"
-        part_end: "{{ (item[1]['id']|int + 1) * item[1]['arbiter_size']|int }}GiB"
+        part_start: "{{ (item[1]['id']|int * arbiter_part_size|int) + 50 }}s"
+        part_end: "{{ ((item[1]['id']|int + 1) * arbiter_part_size|int) + 50 }}s"
         unit: s
       with_nested:
         - "{{ cache_devices }}"
