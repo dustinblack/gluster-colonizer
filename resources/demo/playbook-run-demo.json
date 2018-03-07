@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "width": 158,
+  "height": 38,
+  "duration": 165.307586,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.633488,
+      "\r\nRemoving existing ansible user SSH keys...\r\n"
+    ],
+    [
+      1.544057,
+      "Generating new SSH keys...\r\n"
+    ],
+    [
+      0.927398,
+      "Distributing new SSH keys...\r\n"
+    ],
+    [
+      3.0,
+      "Cleaning up any existing Gluster configurations...\r\n"
+    ],
+    [
+      3.0,
+      "Creating LVM structures...\r\n"
+    ],
+    [
+      3.0,
+      "Creating cache partitions...\r\n"
+    ],
+    [
+      3.0,
+      "Creating and mounting file systems...\r\n"
+    ],
+    [
+      3.0,
+      "Enabling glusterd services...\r\n"
+    ],
+    [
+      1.3159,
+      "Configuring firewall...\r\n"
+    ],
+    [
+      3.0,
+      "Configuring storage network...\r\n"
+    ],
+    [
+      0.677107,
+      "Setting hostnames...\r\n"
+    ],
+    [
+      3.0,
+      "Updating network interface configurations...\r\n"
+    ],
+    [
+      1.766038,
+      "Starting network interfaces...\r\n"
+    ],
+    [
+      1.832909,
+      "Populating the /etc/hosts files...\r\n"
+    ],
+    [
+      2.831091,
+      "Configuring NTP...\r\n"
+    ],
+    [
+      3.0,
+      "Creating Gluster trusted storage pool...\r\n"
+    ],
+    [
+      3.0,
+      "Creating default Gluster volume...\r\n"
+    ],
+    [
+      1.34332,
+      "Applying performance tuning...\r\n"
+    ],
+    [
+      3.0,
+      "Initializing NFS-Ganesha...\r\n"
+    ],
+    [
+      0.58974,
+      "  Configuring services...\r\n"
+    ],
+    [
+      3.0,
+      "  Enabling shared storage volume...\r\n"
+    ],
+    [
+      1.20046,
+      "  Authenticating HA cluster...\r\n"
+    ],
+    [
+      3.0,
+      "  Generating and distributing root SSH keys...\r\n"
+    ],
+    [
+      3.0,
+      "  Populating NFS-Ganesha configuration...\r\n"
+    ],
+    [
+      1.355126,
+      "  Enabling NFS-Ganesha services...\r\n"
+    ],
+    [
+      3.0,
+      "Starting Gluster volumes...\r\n"
+    ],
+    [
+      3.0,
+      "Updating root password...\r\n"
+    ],
+    [
+      1.537878,
+      "Collecting post-install information...\r\n"
+    ],
+    [
+      2.859761,
+      "Generating post-install README...\r\n"
+    ]
+  ]
+}
