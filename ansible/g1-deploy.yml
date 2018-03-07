@@ -521,6 +521,9 @@
         force:          "{{ force | default(False) }}"
       register: result
       failed_when: "result.rc != 0 and ('already exists' not in result.msg)"
+      until: "result.rc == 0 and ('success' in result.msg)"
+      retries: 10
+      delay: 5
 
     - shell: /bin/bash -c 'echo "Applying performance tuning..." > {{ fifo }}'
 
