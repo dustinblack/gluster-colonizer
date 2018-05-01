@@ -20,7 +20,7 @@
     ],
     [
       2.3e-05,
-      "]    nfs    _netdev  0 0\r\n\r\n\r\nYour default volume has been configured on 4 out of your 4\r\ntotal Gluster nodes.\r\n\r\nPlease see the documentation for instructions regarding the creation,\r\nexpansion, and deletion of Gluster volumes.\r\n\r\r\n\r\nThe above information is available in /root/colonizer.README.txt\r\r\n\r\n"
+      "]    nfs    _netdev  0 0\r\n\r\n\r\nYour default volume has been configured on 4 out of your 4\r\ntotal Gluster nodes.\r\n\r\nPlease see the documentation for instructions regarding the creation,\r\nexpansion, and deletion of Gluster volumes.\r\n\r\r\n\r\n"
     ]
   ]
 }
