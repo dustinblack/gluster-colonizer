@@ -23,16 +23,16 @@
 
 import argparse
 from argparse import RawTextHelpFormatter
-import json
+#demoimport json
 import logging
 import netaddr
-import pprint
+#demoimport pprint
 import re
 import string
-import socket
+#demoimport socket
 import sys
-import time
-import urllib2
+#demoimport time
+#demoimport urllib2
 import yaml
 from subprocess import *
 from netaddr import *
@@ -46,7 +46,7 @@ import getpass, crypt, random
 #demoimport pexpect
 from time import sleep #demo
 
-pp = pprint.PrettyPrinter(indent=2)
+#demopp = pprint.PrettyPrinter(indent=2)
 
 # Get command arguments
 parser = argparse.ArgumentParser(
