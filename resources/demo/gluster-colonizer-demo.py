@@ -733,6 +733,8 @@ try:
     print "all %s nodes are connected to the management" % brand_short
     print "network infrastructure and are booted.\r\n"
 
+    print "\033[31mTHIS IS ONLY A DEMO. NO CHANGES WILL BE MADE TO YOUR SYSTEM.\033[0m\r\n" #demo
+
     yes_no('Do you wish to continue? [Y/n] ')
 
     logger.debug("** Begin %s %s**" % (brand_parent, brand_project))
@@ -1366,11 +1368,12 @@ try:
 
     yes_no('Next we will initiate the Gluster installation - OK? [Y/n] ')
     print "\r\n"
-    print "\033[31mWARNING: This step will delete any existing Gluster configurations"
-    print "         and will wipe the LVM block devices and filesystems for drives"
-    print "         other than the system drive."
-    print "\r"
-    print "         THIS WILL DELETE ANY EXISTING DATA FROM THE SYSTEMS!\033[0m\r\n"
+    #demoprint "\033[31mWARNING: This step will delete any existing Gluster configurations"
+    #demoprint "         and will wipe the LVM block devices and filesystems for drives"
+    #demoprint "         other than the system drive."
+    #demoprint "\r"
+    #demoprint "         THIS WILL DELETE ANY EXISTING DATA FROM THE SYSTEMS!\033[0m\r\n"
+    print "\033[31mTHIS IS ONLY A DEMO. NO CHANGES WILL BE MADE TO YOUR SYSTEM.\033[0m\r\n" #demo
     yes_no('Are you sure you want to continue? [Y/n] ')
 
     print("\r\nPlease be patient; these steps may take a while...\r\n")
