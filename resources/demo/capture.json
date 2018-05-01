@@ -1,0 +1,750 @@
+{
+  "version": 1,
+  "width": 78,
+  "height": 38,
+  "duration": 137.97262,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.101056,
+      "\u001b]777;notify;Command completed;sudo su -\u0007\u001b]0;dblack@dblack:~/git/dustinblack/gluster-colonizer/resources/demo\u0007\u001b]7;file://dblack/home/dblack/git/dustinblack/gluster-colonizer/resources/demo\u0007"
+    ],
+    [
+      0.000274,
+      "[dblack@dblack demo]$ "
+    ],
+    [
+      0.495572,
+      "s"
+    ],
+    [
+      0.159971,
+      "s"
+    ],
+    [
+      0.072038,
+      "h"
+    ],
+    [
+      0.079863,
+      " "
+    ],
+    [
+      0.144103,
+      "r"
+    ],
+    [
+      0.055976,
+      "o"
+    ],
+    [
+      0.120034,
+      "o"
+    ],
+    [
+      0.311926,
+      "t"
+    ],
+    [
+      0.704116,
+      "@"
+    ],
+    [
+      2.672035,
+      "1"
+    ],
+    [
+      0.09603,
+      "9"
+    ],
+    [
+      0.111995,
+      "2"
+    ],
+    [
+      0.127839,
+      "."
+    ],
+    [
+      0.120284,
+      "1"
+    ],
+    [
+      0.327604,
+      "6"
+    ],
+    [
+      0.112223,
+      "8"
+    ],
+    [
+      0.239889,
+      "."
+    ],
+    [
+      0.392098,
+      "1"
+    ],
+    [
+      0.271952,
+      "2"
+    ],
+    [
+      0.552158,
+      "4"
+    ],
+    [
+      0.111902,
+      "."
+    ],
+    [
+      0.096037,
+      "4"
+    ],
+    [
+      0.167941,
+      "0"
+    ],
+    [
+      0.272146,
+      "\r\n"
+    ],
+    [
+      0.082881,
+      "root@192.168.124.40's password: "
+    ],
+    [
+      1.693045,
+      "\r\n"
+    ],
+    [
+      0.200901,
+      "Last login: Tue May  1 16:11:37 2018\r\r\n"
+    ],
+    [
+      0.215685,
+      "\u001b]0;root@g1-fresh:~\u0007\u001b[?1034h[root@g1-fresh ~]# "
+    ],
+    [
+      1.743871,
+      "g"
+    ],
+    [
+      0.175709,
+      "l"
+    ],
+    [
+      0.072534,
+      "u"
+    ],
+    [
+      0.06378,
+      "s"
+    ],
+    [
+      0.096011,
+      "t"
+    ],
+    [
+      0.137131,
+      "\u0007er"
+    ],
+    [
+      0.382911,
+      "-"
+    ],
+    [
+      0.143948,
+      "c"
+    ],
+    [
+      0.128464,
+      "olonizer.py "
+    ],
+    [
+      0.44759,
+      "f"
+    ],
+    [
+      0.488016,
+      "\b\u001b[K"
+    ],
+    [
+      0.43999,
+      "-"
+    ],
+    [
+      0.15196,
+      "f"
+    ],
+    [
+      0.120024,
+      " "
+    ],
+    [
+      0.136081,
+      "o"
+    ],
+    [
+      0.071898,
+      "e"
+    ],
+    [
+      0.145113,
+      "\u0007"
+    ],
+    [
+      0.182783,
+      "g"
+    ],
+    [
+      0.146801,
+      "\u0007"
+    ],
+    [
+      0.357289,
+      "\b\u001b[K"
+    ],
+    [
+      1.474736,
+      "\u0007"
+    ],
+    [
+      0.693244,
+      "\b\u001b[K"
+    ],
+    [
+      0.13578,
+      "\b\u001b[K"
+    ],
+    [
+      0.568312,
+      "/"
+    ],
+    [
+      0.167846,
+      "u"
+    ],
+    [
+      0.056242,
+      "s"
+    ],
+    [
+      0.055774,
+      "r"
+    ],
+    [
+      0.088141,
+      "/"
+    ],
+    [
+      0.12813,
+      "s"
+    ],
+    [
+      0.079751,
+      "h"
+    ],
+    [
+      0.040144,
+      "a"
+    ],
+    [
+      0.080073,
+      "r"
+    ],
+    [
+      0.063977,
+      "e"
+    ],
+    [
+      0.071862,
+      "/"
+    ],
+    [
+      0.136131,
+      "g"
+    ],
+    [
+      0.080029,
+      "l"
+    ],
+    [
+      0.071906,
+      "u"
+    ],
+    [
+      0.043888,
+      "\u0007ster"
+    ],
+    [
+      0.627943,
+      "-"
+    ],
+    [
+      0.128134,
+      "c"
+    ],
+    [
+      0.123219,
+      "olonizer/"
+    ],
+    [
+      0.300618,
+      "o"
+    ],
+    [
+      0.170115,
+      "emid/ \r"
+    ],
+    [
+      0.294172,
+      "g"
+    ],
+    [
+      0.156079,
+      "\u00071-id-kvm-"
+    ],
+    [
+      0.659863,
+      "n"
+    ],
+    [
+      0.099408,
+      "as.yml "
+    ],
+    [
+      0.724941,
+      "\r\n"
+    ],
+    [
+      0.123999,
+      "    ____  __  _______    ____\r\n   / __ \\/ / / / ___/   / __ \\____  ___\r\n  / /_/ / /_/ /\\__ \\   / / / / __ \\/ _ \\\r\n / _, _/ __  /___/ /  / /_/ / / / /  __/\r\n/_/ |_/_/ /_//____/   \\____/_/ /_/\\___/\r\n\r\n\r\r\nWelcome to the \u001b[31mRed Hat Storage One Gluster\u001b[0m deployment tool!\r\r\n\r\nThis node will be configured as the deployment master for your\r\nGluster storage pool. Before proceeding, please ensure that\r\nall RHS One Gluster nodes are connected to the management\r\nnetwork infrastructure and are booted.\r\r\n\r\nDo you wish to continue? [Y/n] "
+    ],
+    [
+      1.6516,
+      "y"
+    ],
+    [
+      1.112549,
+      "\r\n\r\r\n\r\nBegin RHS One Gluster inventory phase\r\n\r\r\n\r\nYour deployment node type is \t\u001b[31mKVM-node\u001b[0m\r\nYour deployment flavor is \t\u001b[31mNAS\u001b[0m\r\n\r\r\nHow many RHS One Gluster nodes are you deploying?\r\n\r\r\n   Number of nodes (valid range is 4-24): "
+    ],
+    [
+      3.0,
+      "4"
+    ],
+    [
+      0.375896,
+      "\r\n"
+    ],
+    [
+      7.4e-05,
+      "\r\r\nPlease choose the client access method you will use for the\r\ndefault storage volume. This applies only to the volume that is\r\nautomatically created during deployment, and the method can be\r\nchanged manually post-install.\r\r\n\r\n    1. NFS\r\n    2. Gluster Native Client (FUSE)\r\n    3. SMB\r\r\n\r\nClient method? [1] "
+    ],
+    [
+      1.184027,
+      "1"
+    ],
+    [
+      0.303935,
+      "\r\n"
+    ],
+    [
+      0.000289,
+      "NFS Client selected\r\n\r\r\nWe will now configure the Gluster nodes for your storage network.\r\nPlease ensure that all cabling and switch configuration is complete\r\nbefore proceeding.\r\n\r\r\nBe prepared to provide network information for all nodes in\r\nyour Gluster deployment, including:\r\r\n\r\n   * hostnames\r\n   * IP addresses\r\n   * VIP addresses for HA\r\n   * subnet mask\r\n   * default gateway\r\n   * DNS servers\r\n   * NTP servers\r\n\r\r\n\r\nDo you wish to continue? [Y/n] "
+    ],
+    [
+      0.863785,
+      "\r\n"
+    ],
+    [
+      0.000266,
+      "\r\r\n\r\n\r\r\nAll nodes are expected to be on the same storage subnet, so we\r\nwill first collect all shared network information.\r\r\n\r\n   Storage network domain name: "
+    ],
+    [
+      0.919794,
+      "e"
+    ],
+    [
+      0.199943,
+      "x"
+    ],
+    [
+      0.119888,
+      "a"
+    ],
+    [
+      0.096044,
+      "m"
+    ],
+    [
+      0.09613,
+      "p"
+    ],
+    [
+      0.200008,
+      "l"
+    ],
+    [
+      0.087843,
+      "e"
+    ],
+    [
+      0.104119,
+      "."
+    ],
+    [
+      0.135947,
+      "c"
+    ],
+    [
+      0.064172,
+      "o"
+    ],
+    [
+      0.05593,
+      "m"
+    ],
+    [
+      0.216097,
+      "\r\n   Storage network and CIDR mask (eg, 10.10.10.0/24): "
+    ],
+    [
+      0.14382,
+      "1"
+    ],
+    [
+      0.135982,
+      "0"
+    ],
+    [
+      0.232053,
+      "."
+    ],
+    [
+      0.159964,
+      "1"
+    ],
+    [
+      0.168014,
+      "1"
+    ],
+    [
+      0.071985,
+      "."
+    ],
+    [
+      0.13607,
+      "1"
+    ],
+    [
+      0.087956,
+      "2"
+    ],
+    [
+      0.024178,
+      "."
+    ],
+    [
+      0.239821,
+      "0"
+    ],
+    [
+      0.592051,
+      "/"
+    ],
+    [
+      0.095932,
+      "2"
+    ],
+    [
+      0.168301,
+      "4"
+    ],
+    [
+      0.408326,
+      "\r\n\r\r\nGateway and DNS fields may be left blank for now, if you prefer.\r\r\n\r\n   Gateway IP address: "
+    ],
+    [
+      1.439337,
+      "\r\n"
+    ],
+    [
+      8.1e-05,
+      "\r\r\nNTP will be configured for time synchronization. You may enter\r\nup to four NTP servers below. If you would prefer to use the RHEL\r\npublic NTP servers, simply press Enter at the first prompt and the\r\ndefault servers will be applied.\r\r\n\r\nNOTE: Using the default public NTP servers requires that all of the\r\n      RHS One Gluster nodes have access to the Internet.\r\r\n\r\n   NTP Server 1 (press Enter to accept defaults): "
+    ],
+    [
+      0.944043,
+      "\r\n"
+    ],
+    [
+      0.000803,
+      "\r\r\n\r\n\u001b[31mConfiguring this node as the deployment master...\u001b[0m\r\n\r\r\n\r\nThe Gluster colonizer requires DHCP service on the management\r\nnetwork. If the service is not already available on the\r\nmanagement network, we can start a temporary DHCP server on this\r\nnode now. This local DHCP service will only operate for the\r\nduration of the deployment process.\r\r\n\r\nDo you wish to start the DHCP service here? [y/N] "
+    ],
+    [
+      3.0,
+      "\r\n\r\r\n\r\nProceeding with external DHCP service\r\n\r\r\n\r\nDetecting management subnet...\r\n"
+    ],
+    [
+      0.056922,
+      "Management subnet is 192.168.200.0/24\r\n\r\r\n\r\nWe will now begin node discovery. Do you wish to continue? [Y/n] "
+    ],
+    [
+      0.82953,
+      "\r\n"
+    ],
+    [
+      0.001002,
+      "\r\r\n\r\nSearching for 4 RHS One Gluster nodes.\r\nThis may take several minutes while all nodes come online...\r\r\n\r\n"
+    ],
+    [
+      3.0,
+      "Found 4 nodes so far...  19 attempts remaining   \r"
+    ],
+    [
+      1.0016,
+      "\r\r\n\r\nAll nodes located.\r\nInventory complete.\r\n\r\r\nYou may choose to either assign production storage network\r\nhostnames and static IP addresses to your nodes manually, or\r\nthe deployment tool can assign them for you automatically from\r\nthe 10.11.12.0/24 network.\r\n\r\r\n\u001b[31mNOTE: These hostnames and IP adresses are expected to remain\r\n      static, so please choose your values carefully. If you\r\n      choose automatic assignment, the deployment tool assumes\r\n      that there are no other devices on the storage network\r\n      and that all IPs are available to use.\u001b[0m\r\n\r\r\n\r\nWould you like to proceed with (m)anual or (a)utomatic assignment? [m/a] "
+    ],
+    [
+      3.0,
+      "a"
+    ],
+    [
+      0.260149,
+      "\r\n"
+    ],
+    [
+      0.002661,
+      "All node info successfully assigned\r\n\r\r\n\r\nPlease confirm your deployment details:\r\n\r\r\n\r\nDomain name:  example.com\r\nStorage network:  10.11.12.0/24\r\nDefault gateway:  skipped\r\nDNS 1:  skipped\r\nDNS 2:  skipped\r\n\r\r\nNTP: Using default public servers\r\n\r\r\nStorage nodes:\r\nHostname                  IP Address               \r\ng1-1.example.com          10.11.12.2               \r\ng1-3.example.com          10.11.12.4               \r\ng1-2.example.com          10.11.12.3               \r\ng1-4.example.com          10.11.12.5               \r\n\r\r\nVirtual IPs (VIPs):\r\n10.11.12.6\r\n10.11.12.7\r\n10.11.12.8\r\n10.11.12.9\r\n\r\r\n\r\nDo you wish to continue with this configuration? [Y/n] "
+    ],
+    [
+      0.817205,
+      "y"
+    ],
+    [
+      0.272015,
+      "\r\n"
+    ],
+    [
+      0.000215,
+      "\r\r\n\r\nYour systems have factory SSH keys for the ansible user. These\r\nkeys \u001b[31mshould not be considered secure\u001b[0m. It is highly recommended\r\nthat we replace these keys now with a newly-generated set.\r\r\n\r\nWould you like to proceed with creating a new set of SSH keys? [Y/n] "
+    ],
+    [
+      1.175845,
+      "y"
+    ],
+    [
+      0.231991,
+      "\r\n"
+    ],
+    [
+      0.000445,
+      "\r\r\n\r\nNew ansible user SSH keys will be exchanged\r\n\r\r\nThe default root password on your RHS One Gluster nodes must be reset.\r\n\u001b[31mBe careful to select a secure password, and note that the\r\npassword will be updated for the root user on all nodes.\u001b[0m\r\r\n\r\nPlease enter the new root password: "
+    ],
+    [
+      0.997442,
+      "\r\nConfirm password: "
+    ],
+    [
+      1.066969,
+      "\r\nNew root password collected\r\n\r\r\n\r\nBegin RHS One Gluster validation phase\r\n\r\r\n\r\nComparing nodes to expected configurations...\r\n"
+    ],
+    [
+      3.0,
+      "All node validations passed\r\n\r\r\n\r\nBegin RHS One Gluster deployment phase\r\n\r\r\n\r\nNext we will initiate the Gluster installation - OK? [Y/n] "
+    ],
+    [
+      2.353117,
+      "y"
+    ],
+    [
+      0.799902,
+      "\r\n"
+    ],
+    [
+      9.6e-05,
+      "\r\r\n\r\n\u001b[31mWARNING: This step will delete any existing Gluster configurations\r\n         and will wipe the LVM block devices and filesystems for drives\r\n         other than the system drive.\r\n\r\r\n         THIS WILL DELETE ANY EXISTING DATA FROM THE SYSTEMS!\u001b[0m\r\r\n\r\nAre you sure you want to continue? [Y/n] "
+    ],
+    [
+      0.608223,
+      "y"
+    ],
+    [
+      0.999566,
+      "\r\n"
+    ],
+    [
+      0.001762,
+      "\r\r\nPlease be patient; these steps may take a while...\r\r\n\r\nInitiating Gluster deployment...\r\n"
+    ],
+    [
+      0.684226,
+      "Removing existing ansible user SSH keys...\r\n"
+    ],
+    [
+      1.761771,
+      "Generating new SSH keys...\r\n"
+    ],
+    [
+      0.808089,
+      "Distributing new SSH keys...\r\n"
+    ],
+    [
+      3.0,
+      "Cleaning up any existing Gluster configurations...\r\n"
+    ],
+    [
+      3.0,
+      "Creating LVM structures...\r\n"
+    ],
+    [
+      2.694341,
+      "Creating cache partitions...\r\n"
+    ],
+    [
+      3.0,
+      "Creating and mounting file systems...\r\n"
+    ],
+    [
+      3.0,
+      "Enabling glusterd services...\r\n"
+    ],
+    [
+      1.24991,
+      "Configuring firewall...\r\n"
+    ],
+    [
+      3.0,
+      "Configuring storage network...\r\n"
+    ],
+    [
+      0.633678,
+      "Setting hostnames...\r\n"
+    ],
+    [
+      2.222278,
+      "Updating network interface configurations...\r\n"
+    ],
+    [
+      1.80415,
+      "Starting network interfaces...\r\n"
+    ],
+    [
+      1.965912,
+      "Populating the /etc/hosts files...\r\n"
+    ],
+    [
+      3.0,
+      "Configuring chrony NTP...\r\n"
+    ],
+    [
+      3.0,
+      "Creating Gluster trusted storage pool...\r\n"
+    ],
+    [
+      3.0,
+      "Creating default Gluster volume...\r\n"
+    ],
+    [
+      1.328678,
+      "Applying performance tuning...\r\n"
+    ],
+    [
+      3.0,
+      "Initializing NFS-Ganesha...\r\n"
+    ],
+    [
+      0.567071,
+      "  Configuring services...\r\n"
+    ],
+    [
+      3.0,
+      "  Enabling shared storage volume...\r\n"
+    ],
+    [
+      1.105203,
+      "  Authenticating HA cluster...\r\n"
+    ],
+    [
+      3.0,
+      "  Generating and distributing root SSH keys...\r\n"
+    ],
+    [
+      3.0,
+      "  Populating NFS-Ganesha configuration...\r\n"
+    ],
+    [
+      1.367856,
+      "  Enabling NFS-Ganesha services...\r\n"
+    ],
+    [
+      3.0,
+      "Starting Gluster volumes...\r\n"
+    ],
+    [
+      3.0,
+      "Updating root password...\r\n"
+    ],
+    [
+      2.741212,
+      "Collecting post-install information...\r\n"
+    ],
+    [
+      2.846652,
+      "Generating post-install README...\r\n"
+    ],
+    [
+      2.757743,
+      "\r\r\n\r\nYour \u001b[31mRed Hat Storage One Gluster\u001b[0m deployment is now complete!\r\n\r\r\n\r\nYou have the option to run a series of performance tests to validate\r\nyour RHS One Gluster environment. The performance tests can take an\r\nhour or longer to complete. It is recommended that you perform these\r\ntests now, but you may also choose to run them at a later time.\r\n\r\r\nWould you like to start the performance tests now? [Y/n] "
+    ],
+    [
+      3.0,
+      "n"
+    ],
+    [
+      0.192881,
+      "\r\n"
+    ],
+    [
+      0.001167,
+      "\r\r\n\r\nPerformance tests skipped\r\n\r\r\n\r\nInformation about your deployment is available in the /root/colonizer.README.txt file\r\r\n\r\nPress Enter to display the file contents."
+    ],
+    [
+      1.650894,
+      "\r\n"
+    ],
+    [
+      0.020073,
+      "\r\r\n\r\nYour Red Hat Storage One Gluster deployment has completed\r\nsuccessfully as of Tue May  1 16:18:11 UTC 2018.\r\n\r\nYou may now manage your volumes using the gluster(8) command line interface.\r\n\r\nBelow is your default storage volume information:\r\n\r\n====================\r\n \r\nVolume Name: gluster1\r\nType: Distributed-Replicate\r\nVolume ID: f1df155a-4133-416d-9d3a-78de8d533a10\r\nStatus: Started\r\nSnapshot Count: 0\r\nNumber of Bricks: 2 x (2 + 1) = 6\r\nTransport-type: tcp\r\nBricks:\r\nBrick1: g1-1.example.com:/gluster/bricks/brick1/gluster1\r\nBrick2: g1-2.example.com:/gluster/bricks/brick1/gluster1\r\nBrick3: g1-3.example.com:/gluster/bricks/arbiter-brick1/gluster1 (arbiter)\r\nBrick4: g1-3.example.com:/gluster/bricks/brick1/gluster1\r\nBrick5: g1-4.example.com:/gluster/bricks/brick1/gluster1\r\nBrick6: g1-2.example.com:/gluster/bricks/arbiter-brick1/gluster1 (arbiter)\r\nOptions Reconfigured:\r\nganesha.enable: on\r\nclient.event-threads: 4\r\ncluster.lookup-optimize: True\r\nserver.event-threads: 4\r\nnetwork.inode-lru-limit: 50000\r\nperforma"
+    ],
+    [
+      3.2e-05,
+      "nce.md-cache-timeout: 600\r\nperformance.cache-invalidation: True\r\nperformance.stat-prefetch: True\r\nfeatures.cache-invalidation-timeout: 600\r\nfeatures.cache-invalidation: on\r\ntransport.address-family: inet\r\nnfs.disable: on\r\nnfs-ganesha: enable\r\ncluster.enable-shared-storage: enable\r\n====================\r\n\r\nYour volume has been configured for the NFS client.\r\n\r\nThe volume can be accessed via the virtual IP addresses (VIPs) configured\r\nduring the deployment:\r\n\r\n10.11.12.6\r\n10.11.12.7\r\n10.11.12.8\r\n10.11.12.9\r\n\r\nThese VIPs are part of a high-availability subsystem and will automatically\r\nmigrate between a subset of your Gluster nodes in the case of a node outage.\r\n\r\nNo load balancing for these VIPs is provided by Gluster. It is recommended\r\nthat you implement an external load balancer.\r\n\r\n\r\nExample command for mounting your volume on a Linux system:\r\n\r\nmount -t nfs 10.11.12.6:/gluster1 [mountpoint] -o _netdev\r\n\r\n\r\nExample /etc/fstab entry for mounting your volume at boot time:\r\n\r\n10.11.12.6:/gluster1    [mountpoint"
+    ],
+    [
+      2.3e-05,
+      "]    nfs    _netdev  0 0\r\n\r\n\r\nYour default volume has been configured on 4 out of your 4\r\ntotal Gluster nodes.\r\n\r\nPlease see the documentation for instructions regarding the creation,\r\nexpansion, and deletion of Gluster volumes.\r\n\r\r\n\r\nThe above information is available in /root/colonizer.README.txt\r\r\n\r\n\u001b]0;root@g1-fresh:~\u0007[root@g1-fresh ~]# "
+    ],
+    [
+      1.968275,
+      "logout\r\n"
+    ],
+    [
+      0.006237,
+      "Connection to 192.168.124.40 closed.\r\r\n"
+    ],
+    [
+      0.0776,
+      "\u001b]777;notify;Command completed;ssh root@192.168.124.40\u0007\u001b]0;dblack@dblack:~/git/dustinblack/gluster-colonizer/resources/demo\u0007\u001b]7;file://dblack/home/dblack/git/dustinblack/gluster-colonizer/resources/demo\u0007"
+    ],
+    [
+      0.004226,
+      "[dblack@dblack demo]$ "
+    ]
+  ]
+}

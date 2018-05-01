@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 38,
+  "duration": 137.97262,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.684226,
+      "Removing existing ansible user SSH keys...\r\n"
+    ],
+    [
+      1.761771,
+      "Generating new SSH keys...\r\n"
+    ],
+    [
+      0.808089,
+      "Distributing new SSH keys...\r\n"
+    ]
+  ]
+}

@@ -1548,16 +1548,13 @@ try:
     # Run playbook to replace ansible user ssh keys
     if new_ssh_keys:
         #demorun_ansible_playbook(playbook_path + "/g1-key-dist.yml")
-        print "test"
-        #DEMOADD asciinema
-        #command = '/usr/bin/asciinema play ...'
-        #call(shlex.split(command))
+        command = '/usr/bin/asciinema play key-dist-demo.json' #demo
+        call(shlex.split(command)) #demo
 
     # Run the primary g1-deploy ansible playbook
     #demorun_ansible_playbook(playbook_args)
-    #DEMOADD asciinema
-    #command = '/usr/bin/asciinema play ...'
-    #call(shlex.split(command))
+    command = '/usr/bin/asciinema play main-playbook-demo.json' #demo
+    call(shlex.split(command)) #demo
 
     if config_ad:
         # Build the ansible-playbook args for the AD playbook
@@ -1627,9 +1624,8 @@ try:
     playbook_args += ',ad_domain_name: \'' + str(ad_domain_name) + '\''
     playbook_args += '}"'
     #demorun_ansible_playbook(playbook_args, continue_on_fail=True)
-    #DEMOADD asciinema
-    #command = '/usr/bin/asciinema play ...'
-    #call(shlex.split(command))
+    command = '/usr/bin/asciinema play post-install-demo.json' #demo
+    call(shlex.split(command)) #demo
 
     print "\r\n"
 
@@ -1685,9 +1681,8 @@ try:
 
     print "\r\n"
 
-    #DEMOADD asciinema
-    #command = '/usr/bin/asciinema play ...'
-    #call(shlex.split(command))
+    command = '/usr/bin/asciinema play post-run-output-demo.json' #demo
+    call(shlex.split(command)) #demo
 
     #demowith open(readme_file, 'r') as readme:
     #demo    lines = readme.readlines()

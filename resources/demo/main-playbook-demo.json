@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "width": 80,
+  "height": 38,
+  "duration": 137.97262,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      3.0,
+      "Cleaning up any existing Gluster configurations...\r\n"
+    ],
+    [
+      3.0,
+      "Creating LVM structures...\r\n"
+    ],
+    [
+      2.694341,
+      "Creating cache partitions...\r\n"
+    ],
+    [
+      3.0,
+      "Creating and mounting file systems...\r\n"
+    ],
+    [
+      3.0,
+      "Enabling glusterd services...\r\n"
+    ],
+    [
+      1.24991,
+      "Configuring firewall...\r\n"
+    ],
+    [
+      3.0,
+      "Configuring storage network...\r\n"
+    ],
+    [
+      0.633678,
+      "Setting hostnames...\r\n"
+    ],
+    [
+      2.222278,
+      "Updating network interface configurations...\r\n"
+    ],
+    [
+      1.80415,
+      "Starting network interfaces...\r\n"
+    ],
+    [
+      1.965912,
+      "Populating the /etc/hosts files...\r\n"
+    ],
+    [
+      3.0,
+      "Configuring chrony NTP...\r\n"
+    ],
+    [
+      3.0,
+      "Creating Gluster trusted storage pool...\r\n"
+    ],
+    [
+      3.0,
+      "Creating default Gluster volume...\r\n"
+    ],
+    [
+      1.328678,
+      "Applying performance tuning...\r\n"
+    ],
+    [
+      3.0,
+      "Initializing NFS-Ganesha...\r\n"
+    ],
+    [
+      0.567071,
+      "  Configuring services...\r\n"
+    ],
+    [
+      3.0,
+      "  Enabling shared storage volume...\r\n"
+    ],
+    [
+      1.105203,
+      "  Authenticating HA cluster...\r\n"
+    ],
+    [
+      3.0,
+      "  Generating and distributing root SSH keys...\r\n"
+    ],
+    [
+      3.0,
+      "  Populating NFS-Ganesha configuration...\r\n"
+    ],
+    [
+      1.367856,
+      "  Enabling NFS-Ganesha services...\r\n"
+    ],
+    [
+      3.0,
+      "Starting Gluster volumes...\r\n"
+    ],
+    [
+      3.0,
+      "Updating root password...\r\n"
+    ]
+  ]
+}
