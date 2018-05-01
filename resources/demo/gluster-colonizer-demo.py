@@ -1551,12 +1551,12 @@ try:
     # Run playbook to replace ansible user ssh keys
     if new_ssh_keys:
         #demorun_ansible_playbook(playbook_path + "/g1-key-dist.yml")
-        command = '/usr/bin/asciinema play key-dist-demo.json' #demo
+        command = 'asciinema play key-dist-demo.json' #demo
         call(shlex.split(command)) #demo
 
     # Run the primary g1-deploy ansible playbook
     #demorun_ansible_playbook(playbook_args)
-    command = '/usr/bin/asciinema play main-playbook-demo.json' #demo
+    command = 'asciinema play main-playbook-demo.json' #demo
     call(shlex.split(command)) #demo
 
     if config_ad:
@@ -1627,7 +1627,7 @@ try:
     playbook_args += ',ad_domain_name: \'' + str(ad_domain_name) + '\''
     playbook_args += '}"'
     #demorun_ansible_playbook(playbook_args, continue_on_fail=True)
-    command = '/usr/bin/asciinema play post-install-demo.json' #demo
+    command = 'asciinema play post-install-demo.json' #demo
     call(shlex.split(command)) #demo
 
     print "\r\n"
@@ -1684,7 +1684,7 @@ try:
 
     print "\r\n"
 
-    command = '/usr/bin/asciinema play post-run-output-demo.json' #demo
+    command = 'asciinema play post-run-output-demo.json' #demo
     call(shlex.split(command)) #demo
 
     #demowith open(readme_file, 'r') as readme:
