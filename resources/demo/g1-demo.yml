@@ -1,10 +1,10 @@
 # Colonizer example flavor ID file for KVM (test lab) deployment
 
 flavor:
-    name: NAS
+    name: General-Purpose NAS
     g1_path: ./
     node:
-        name: KVM-node
+        name: Demo Node
         verify_file_name: verify-qemu.yml
         mgmt_interface: eth0
         storage_interface: eth1
