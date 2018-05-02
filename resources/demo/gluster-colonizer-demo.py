@@ -110,14 +110,17 @@ rand_filename_sample = "abcdefghijklmnopqrstuvwxyz01234567890ABCDEFGHIJKLMNOPQRS
 rand_filename_len = 8
 
 # Ansible configuration
-peerInventory = "/var/tmp/peerInventory.ansible-" + "".join(
+#demopeerInventory = "/var/tmp/peerInventory.ansible-" + "".join(
+peerInventory = "$TMPDIR/peerInventory.ansible-" + "".join( #demo
     random.sample(rand_filename_sample, rand_filename_len))
 ansible_ssh_key = "/home/ansible/.ssh/id_rsa"
 
 # Performance test files
-perf_jobfile = "/var/tmp/g1-perf-jobfile.fio-" + "".join(
+#demoperf_jobfile = "/var/tmp/g1-perf-jobfile.fio-" + "".join(
+perf_jobfile = "$TMPDIR/g1-perf-jobfile.fio-" + "".join( #demo
     random.sample(rand_filename_sample, rand_filename_len))
-perf_server_list = "/var/tmp/g1-perf-server.list-" + "".join(
+#demoperf_server_list = "/var/tmp/g1-perf-server.list-" + "".join(
+perf_server_list = "$TMPDIR/g1-perf-server.list-" + "".join( #demo
     random.sample(rand_filename_sample, rand_filename_len))
 perf_output = "/root/g1-perf-results.out"
 
